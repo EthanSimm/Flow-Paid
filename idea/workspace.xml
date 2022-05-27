@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1472717-922c-4c92-9616-2cdeb2971362" name="Changes" comment="Added purple sprites for testing&#10;Lots of trial and error, but now I'm on the right track&#10;Everything is set so that I'll be able to implement the path creating mechanic, the core mechanic of the game">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow Paid Aqueducts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Flow Paid Aqueducts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/EmptyCell.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/EmptyCell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PURPLEc1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/PURPLEc1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PURPLEc2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/PURPLEc2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PURPLEc3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/PURPLEc3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PURPLEc4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/PURPLEc4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PURPLEep.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/PURPLEep.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PURPLEh.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/PURPLEh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PURPLEv.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/PURPLEv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ReferenceImage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AqueductsGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AqueductsGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameCell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="28yPRqYwXYCAjJd2TGqA2slLSYW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Flow Paid Aqueducts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1472717-922c-4c92-9616-2cdeb2971362" name="Changes" comment="" />
+      <created>1652185850707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652185850707</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added a sprites for each GameCell&#10;Fixed the screen size to account for the title bar">
+      <created>1652742552470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652742552470</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added purple sprites for testing&#10;Lots of trial and error, but now I'm on the right track&#10;Everything is set so that I'll be able to implement the path creating mechanic, the core mechanic of the game">
+      <created>1652829759734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652829759734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added a sprites for each GameCell&#10;Fixed the screen size to account for the title bar" />
+    <MESSAGE value="Added purple sprites for testing&#10;Lots of trial and error, but now I'm on the right track&#10;Everything is set so that I'll be able to implement the path creating mechanic, the core mechanic of the game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added purple sprites for testing&#10;Lots of trial and error, but now I'm on the right track&#10;Everything is set so that I'll be able to implement the path creating mechanic, the core mechanic of the game" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
